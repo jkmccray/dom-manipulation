@@ -1,0 +1,19 @@
+.smallText {
+  font-size: xx-small;
+}
+
+.largeText {
+  font-size: xx-large;
+}
+
+.blueFont {
+  color: blue;
+}
+
+.border {
+  border: 2px solid salmon;
+}
+
+.backgroundGoldenrod {
+  background-color: goldenrod;
+}
